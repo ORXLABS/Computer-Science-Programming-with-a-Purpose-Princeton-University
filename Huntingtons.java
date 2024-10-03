@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:              Ada Lovelace
- *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
+ *  Name:              John Russell
+ *  Coursera User ID:  NA
+ *  Last modified:     October 2nd 2024
  **************************************************************************** */
 
 public class Huntingtons {
