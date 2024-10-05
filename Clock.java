@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:              Ada Lovelace
- *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
+ *  Name:              John Russell
+ *  Coursera User ID:  NA
+ *  Last modified:     October 04, 2024
  **************************************************************************** */
 
 public class Clock {
@@ -9,7 +9,7 @@ public class Clock {
     private static final int HOURS_PER_DAY = 24;
     private int hour, min;
 
-    // Creates a clock whose initial time is h hours and m minutes.
+    // Creates a clock whose initial time is h hours and m minutes...
     public Clock(int h, int m) {
         hour = h;
         min = m;

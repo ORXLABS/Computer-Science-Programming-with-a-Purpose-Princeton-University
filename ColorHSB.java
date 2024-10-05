@@ -1,8 +1,9 @@
 /* *****************************************************************************
- *  Name:              Ada Lovelace
- *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
+ *  Name:              John Russell
+ *  Coursera User ID:  NA
+ *  Last modified:     October 04 2024
  **************************************************************************** */
+
 
 public class ColorHSB {
     private static final int ANGLE = 360;
@@ -21,7 +22,7 @@ public class ColorHSB {
 
     }
 
-    // Returns a string representation of this color, using the format (h, s, b).
+    // Returns a string representation of this color, using the format (h, s, b):
     public String toString() {
         return "(" + hue + ", " + sat + ", " + bright + ")";
     }
